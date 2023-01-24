@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/androme2/sclanka.com/noonbackend"
+PassengerBaseURI "/noonbackend"
+PassengerNodejs "/home/androme2/nodevenv/sclanka.com/noonbackend/18/bin/node"
+PassengerAppType node
+PassengerStartupFile app.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
